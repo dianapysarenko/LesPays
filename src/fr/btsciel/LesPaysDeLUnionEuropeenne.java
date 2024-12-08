@@ -1,6 +1,6 @@
 package fr.btsciel;
 
-//Gestion des pays de l'Union Européenne.
+// Gestion des pays de l'Union Européenne.
 
 import java.util.Arrays;
 import java.util.Comparator;
