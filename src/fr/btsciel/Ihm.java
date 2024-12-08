@@ -1,10 +1,9 @@
 package fr.btsciel;
 
-
 //Classe principale pour l'interface utilisateur.
+
 import java.text.DecimalFormat;
 import java.util.Scanner;
-
 
 public class Ihm {
     public static LesPaysDeLUnionEuropeenne gestion;
